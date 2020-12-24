@@ -1,0 +1,3 @@
+# Useful stuff for laptop setup
+- brew packages
+- ...
